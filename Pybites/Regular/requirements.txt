@@ -1,0 +1,3 @@
+# For regular_336.py
+fastapi
+uvicorn # optional, helps with testing
